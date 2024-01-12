@@ -1,0 +1,9 @@
+.navbar-brand{
+    color:#Ed1e79 ;
+    
+}
+
+.navbar-nav .nav-link.active{
+    color:#Ed1e79 ;
+    font-size: larger;
+}

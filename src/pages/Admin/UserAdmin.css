@@ -1,0 +1,12 @@
+.vh-100 {
+    height: 100vh
+}
+
+.col-2 {
+    flex: 0 0 auto;
+    width: 22%;
+}
+
+.bg-secondary{
+    background-color: #727272 !important;
+}
